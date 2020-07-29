@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kymco-test"
+    }
+  },
+  "defaultProject": "kymco-test",
+  "cli": {
+    "analytics": "5cb7c73f-495d-4de0-9b5b-138ed5637850"
+  }
 }
